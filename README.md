@@ -20,4 +20,13 @@ Description of data
 
 Genetic sequences for 84 influenza A viruses (H5N1) collected from New England in FASTA format used in phylogenetic analyses. 
 
-GISAID accession:
+GISAID accessions:
+  EPI_ISL_14098915
+  EPI_ISL_14098917-14098924
+  EPI_ISL_16632466
+  EPI_ISL_16632487-16632488
+  EPI_ISL_16632494-16632496
+  EPI_ISL_16632498-16632524
+  EPI_ISL_16632536-16632542
+  EPI_ISL_16641764-16641794
+  EPI_ISL_16641796-16641799
